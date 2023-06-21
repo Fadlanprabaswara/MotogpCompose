@@ -12,3 +12,4 @@ Fitur 2: terdapat halaman detail untuk menampilkan detail setiap pembalap.
 Fitur 3: terdapat halaman profile untuk data diri kita.
 
 # Gambar Aplikasi 
+![Aplikasi Submission Android Compose](https://example.com/path/to/image.gif)
